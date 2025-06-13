@@ -1,0 +1,26 @@
+# Ignorer l'environnement virtuel
+.venv/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Bases de données
+*.db
+*.sqlite3
+
+# Données générées
+data/*.csv
+looker_data/*.csv
+plots/
+logs/
+
+# Config VS Code
+.vscode/
+
+# Mac OS (si tu es sur Mac)
+.DS_Store

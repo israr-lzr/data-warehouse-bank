@@ -1,0 +1,23 @@
+=== STATISTIQUES TOPIC MODELING ===
+
+Mots principaux par topic:
+Topic 0 (theme_lent rien): lent, rien, appel, fait, personnel, chef, person, plus, peut, dur
+Topic 1 (theme_toujour cet): toujour, cet, recommand, depuis, aucun, dieu, pann, compt, tous, servic
+Topic 2 (service_client): accueil, personnel, cet, plus, conseil, grand, fait, an, chaqu, mauvais
+Topic 3 (theme_cet compt): cet, compt, guichet, tout, si, autr, catastroph, bmce, plus, heur
+Topic 4 (theme_plus mr): plus, mr, avant, toujour, accueil, servic, si, al, bancair, chaqu
+Topic 5 (theme_compt fait): compt, fait, chang, ouvr compt, ouvr, plus, appel, san, bancair, ni
+Topic 6 (satisfaction_generale): nul, cet, mauvais, toujour, min, impossibl, si, commun, compt, joindr
+Topic 7 (theme_jam vu): jam, vu, person, aucun, jam vu, ni, pir, bancair, cart, seul
+Topic 8 (theme_cet professionnal): cet, professionnal, tout, manqu, person, manqu professionnal, tre, compt, recommand, caiss
+Topic 9 (theme_bon niveau): bon, niveau, pir, bancair, calm, nul, propr, vrai, plus, cet
+Topic 10 (theme_temp plus): temp, plus, trop, guichet, aucun, nul, attent, vid, depuis, fair
+Topic 11 (theme_san seul): san, seul, si, attendr, cet, manqu, raison, respect, caiss, faut
+Topic 12 (theme_nul personnel): nul, personnel, cet, null, agent, longu, nul nul, respect, absenc, horair
+Topic 13 (satisfaction_generale): personnel, paus, directeur, cet, aucun, mauvais, dej, paus dej, nul, san
+Topic 14 (theme_guichet professionnel): guichet, professionnel, cet, plus, surtout, quand, non, directeur, comm, moin
+
+Informations modèle:
+Nombre de topics: 15
+Documents analysés: 920
+Perplexité: 1930.83
